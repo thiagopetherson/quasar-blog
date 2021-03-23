@@ -1,4 +1,7 @@
-# Quasar App (webinar-digital)
+![image](https://user-images.githubusercontent.com/44420212/112201926-8cc38300-8bef-11eb-903f-f87225af6725.png)
+
+# Quasar App (blog)
+Uma aplicação de um blog feita de forma didática com base nas aulas do Patrick Vieira. Utilizamos VueJS, Vuex, Vue Router, Axios e o Quasar Framework para desenvolver essa SPA.
 
 A Quasar Framework app
 
