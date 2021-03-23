@@ -51,9 +51,15 @@ import EssentialLink from 'components/EssentialLink.vue'
 
 const linksData = [
   {
+    title: 'Dashboard',
+    caption: 'Painel',
+    icon: 'home',
+    link: '/'
+  },
+  {
     title: 'Postagens',
     caption: 'Lista de Postagens',
-    icon: 'school',
+    icon: 'list_alt',
     link: '/'
   }
 ]
